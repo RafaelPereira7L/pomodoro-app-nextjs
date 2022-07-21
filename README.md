@@ -1,3 +1,24 @@
+<h1 align="center">POMODORO APP</h1> 
+<p align="center">Pomodoro Web App using Next.js, TypeScript and TailwindCSS</p>
+<p align="center">Aplicação Web de Pomodoro usando Next.js, TypeScript e TailwindCSS</p>
+<div align="center">
+<a href="https://pomodoro-app-nine-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT-239120?style=for-the-badge&logoColor=white"/></a>
+</div>
+<h1 align="center">PREVIEW</h1>
+<div align="center">
+<img src="public/pomodoro1.png" width='200'/>
+<img src="public/pomodoro2.png" width='200'/>
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=pnpm&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+<br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -5,6 +26,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+pnpm run dev
+
 npm run dev
 # or
 yarn dev
@@ -14,9 +37,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ## Learn More
 
