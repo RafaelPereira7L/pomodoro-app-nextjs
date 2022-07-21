@@ -5,10 +5,10 @@ import { NextPage } from 'next';
 export const AppHead: NextPage = () => {
   return (
     <Head>
-      <title>Next.JS, TypeScript & TailwindCSS</title>
+      <title>Pomodoro APP - Rafael DEV</title>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta name="description" content="Next.JS App" />
-      <link rel="icon" href="/favicon.ico" />
+      <meta name="description" content="Next.JS, TypeScript & TailwindCSS" />
+      <link rel="icon" href="/favicon.png" />
     </Head>
   );
 };

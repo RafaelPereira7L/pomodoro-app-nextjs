@@ -18,3 +18,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+body {
+  background: #828FFF;
+
+  transition: background-color 300ms ease-in-out;
+}
+
+.working {
+  background: #c30232;
+}
